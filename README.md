@@ -22,7 +22,7 @@ My journey into web development started with a curiosity for coding, and over th
 
 ## Projects
 
-### [Project 1: Awesome PHP FORM BY(with Google Authenticator)](https://github.com/berhan5378/PHP-Forms?tab=readme-ov-file)
+### [Project 1: Awesome PHP FORM(with Google Authenticator)](https://github.com/berhan5378/PHP-Forms?tab=readme-ov-file)
 A PHP FORM built with PHP(OOP with MVC), AJAX, MySQL(PDO with Prepared Statements), HTML5 and CSS3. Custom Router and ERROR Handling
 
 ### [Project 2:chat app](https://github.com/berhan5378/web_applications/tree/main/chat_app)
