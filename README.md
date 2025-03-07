@@ -12,6 +12,7 @@ My journey into web development started with a curiosity for coding, and over th
  - php
  - OOP(PHP)
  - PHPUnit
+ - Laravel
  - MySQL(MySQLi/PDO)
  - RESTful APIs
  - Postman
