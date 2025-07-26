@@ -22,7 +22,7 @@ My journey into web development started with a curiosity for coding, and over th
  - Responsive Web Development
 
 ## Projects
-### [🚀 Project: LuxuryFinds – Laravel E-commerce Platform)](https://luxuryfinds.rf.gd)
+## [🚀 Project: LuxuryFinds – Laravel E-commerce Platform)](https://luxuryfinds.rf.gd)
 🛍 Introduction
 LuxuryFinds is a feature-rich e-commerce web application built with Laravel, tailored to offer a smooth and user-friendly online shopping experience. It focuses on modern design, seamless cart handling, and clean admin management features—ideal for general e-commerce use cases.
 
@@ -63,15 +63,15 @@ Composer – Dependency management for PHP libraries
 🎯 Purpose
 LuxuryFinds was created to demonstrate practical Laravel development with a focus on modular code, REST APIs, and e-commerce functionality. It provides an admin-friendly environment for managing users, products, and orders while delivering a clean shopping experience to users.
 
-## [🌐 View live Demo : LuxuryFinds – Laravel E-commerce Platform)](https://luxuryfinds.rf.gd)
+### [🌐 View live Demo : LuxuryFinds – Laravel E-commerce Platform)](https://luxuryfinds.rf.gd)
 
-### [Project : Task Management System](https://github.com/berhan5378/TaskManagement)
+## [Project : Task Management System](https://github.com/berhan5378/TaskManagement)
 I built a Task Management System using Laravel & AJAX to streamline task workflows efficiently. It includes:
 ✅ Google Authentication
  ✅ Real-time Task Creation, Editing & Deletion with AJAX
  ✅ Priority Management & Deadline Tracking
  ✅ Secure UUID-based User Identification 
- ## [🔗 source code : Task Management System)](https://github.com/berhan5378/TaskManagement)
+ ### [🔗 source code : Task Management System](https://github.com/berhan5378/TaskManagement)
 
 ## Contact Me
 
